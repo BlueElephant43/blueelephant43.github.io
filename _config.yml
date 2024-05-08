@@ -1,8 +1,9 @@
 # Site settings
 title: Great New Blog Title
 author: Alyon Yap
-  name: Evan Will
-  email: alyonyapp@gmail.co,
+  name: Alyon Yap
+  email: alyonyapp@gmail.com,
+  port
 description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
